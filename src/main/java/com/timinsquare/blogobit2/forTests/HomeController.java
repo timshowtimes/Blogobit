@@ -1,4 +1,4 @@
-package com.timinsquare.blogobit2.controllers;
+package com.timinsquare.blogobit2.forTests;
 
 import com.timinsquare.blogobit2.models.BUser;
 import org.springframework.security.core.Authentication;
